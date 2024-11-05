@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    <GoogleOAuthProvider clientId="924383266324-678dpt0khn4vi04m6rklqivhmvnun8hn.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="">
     <GoogleLoginButton
              setName ={setName}
              setEmail={setEmail}
